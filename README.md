@@ -1,5 +1,6 @@
 # FRED-Net_Keras
-This is an implementation of FRED-Net using keras.
+This is an implementation of FRED-Net using keras. (https://www.sciencedirect.com/science/article/abs/pii/S0957417419300119)
+
 In the following, there is a predicted mask with image and groundtruth (In order from left to right: Eye image-Groundtruth image-Predicted mask):
 
 ![image](https://user-images.githubusercontent.com/32045892/123553237-4736c900-d78f-11eb-8c5b-d172dabaaee2.png)![image](https://user-images.githubusercontent.com/32045892/123553243-59186c00-d78f-11eb-9097-5633b022b616.png)
