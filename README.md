@@ -9,13 +9,13 @@ In the following, there is a predicted mask with image and groundtruth (In order
 
 
 
-requirements
+1. requirements
 pip install -r requirements.txt
 
-images and masks
+2. images and masks
 Put images and maks in dataset/images and dataset/masks
 
-train.txt and val.txt
+3. train.txt and val.txt
 put images name in here:
 
 image_name_1
@@ -30,7 +30,7 @@ image_name_2
 
 image_nameN
 
-image size
+4. image size
 The default image size is 256X256
 
 I will be happy to help you. Please feel free to contact me.
